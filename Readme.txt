@@ -55,10 +55,4 @@ I focus on transforming raw datasets into actionable insights that improve effic
 
 ---
 
-## 📫 Contact
-- Email: your.email@example.com  
-- LinkedIn: https://linkedin.com/in/yourprofile  
-
----
-
 ⭐ Always learning, always improving, always optimizing.
