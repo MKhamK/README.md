@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Anuwat!
 
 🎓 Master’s Student in Business Analytics  
 📦 Focus: Supply Chain & Logistics Optimization  
