@@ -1,40 +1,64 @@
-# Welcome to My GitHub Repository!
+# 👋 Hi, I'm [Your Name]
 
-## About This Project
+🎓 Master’s Student in Business Analytics  
+📦 Focus: Supply Chain & Logistics Optimization  
+📊 Aspiring Data Analyst | Data-Driven Decision Making Enthusiast  
+🌏 Based in Thailand  
 
-This repository contains the source code for my amazing project. Feel free to explore the code, contribute, or provide feedback.
+---
 
-## Getting Started
+## 🚀 About Me
+I am a Business Analytics graduate student passionate about solving real-world supply chain and operational challenges through data.
 
-To get started with this project, follow these steps:
+I focus on transforming raw datasets into actionable insights that improve efficiency, reduce costs, and support strategic decision-making in logistics and supply chain systems.
 
-1. Clone this repository to your local machine.
-2. Install the necessary dependencies by running `npm install` or `yarn install`.
-3. Run the project using `npm start` or `yarn start`.
-4. Open your browser and navigate to `http://localhost:3000` to view the application.
+---
 
-## Features
+## 💡 Interests
+- Supply Chain Analytics & Optimization 📦  
+- Data Visualization & Dashboard Design 📊  
+- Business Intelligence & Decision Support Systems  
+- Scenario Analysis & Operational Efficiency  
 
-- Feature 1: Description of feature 1.
-- Feature 2: Description of feature 2.
-- Feature 3: Description of feature 3.
+---
 
-## Contributing
+## 🛠 Tech Stack
+- 📊 Tableau (Dashboard & Visualization)  
+- 🐍 Python (Pandas, NumPy)  
+- 🗄 SQL (Data Querying & Analysis)  
+- 📈 Excel (Data Processing & Reporting)  
+- 📉 Data Analysis & Business Insights  
 
-If you would like to contribute to this project, please follow these guidelines:
+---
 
-1. Fork this repository.
-2. Create a new branch for your feature (`git checkout -b feature-name`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add some feature'`).
-5. Push to the branch (`git push origin feature-name`).
-6. Create a new Pull Request.
+## 📂 Featured Projects
 
-## Support
+### 📦 Supply Chain Cost Optimization Analysis
+- Analyzed logistics cost structure across routes and transportation modes  
+- Identified inefficiencies in Route B and Air transport usage  
+- Conducted scenario analysis to evaluate cost reduction strategies  
+- **Business Impact:** ~15% potential cost reduction identified  
 
-If you encounter any issues or have any questions, feel free to [open an issue](https://github.com/your-username/your-repository-name/issues) on GitHub.
+---
 
-## License
+### 📊 KPI Dashboard (Tableau)
+- Designed executive-level supply chain KPI dashboard  
+- Visualized revenue, stock levels, and operational performance  
+- Implemented color-coded indicators for quick decision-making  
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+---
 
+## 📈 Key Strengths
+- Strong analytical thinking & structured problem solving  
+- Ability to translate data into actionable business insights  
+- Experience in building clear and decision-oriented dashboards  
+
+---
+
+## 📫 Contact
+- Email: your.email@example.com  
+- LinkedIn: https://linkedin.com/in/yourprofile  
+
+---
+
+⭐ Always learning, always improving, always optimizing.
